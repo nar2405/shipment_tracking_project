@@ -1,6 +1,6 @@
 # shipment_tracking_project
 
-# 1. Install Python Dependencies
+# Install Python Dependencies
 pip install selenium scrapy pyautogui
 
 # Browser Requirements
